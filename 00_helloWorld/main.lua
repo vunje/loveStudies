@@ -1,13 +1,13 @@
-local Middlecalas = require('plugin/HooECS/lib/middleclass')
+-- local Middleclass = require('plugin/HooECS/lib/middleclass')
 local HooECS = require('plugin/HooECS')
-HooECS.initialize()
+-- HooECS.initialize()
 
 function love.load()
 end
 
 function love.draw()
     love.graphics.print("Hello World!!!", 400, 300)
-    love.graphics.print(HooECS)
+    -- love.graphics.print(HooECS)
 end
 
 function love.keyreleased(key)
