@@ -1,3 +1,6 @@
 [submodule "00_helloWorld/plugin/HooECS"]
 	path = 00_helloWorld/plugin/HooECS
 	url = https://github.com/Hooodini/HooECS.git
+[submodule "docs/LuaDesignPattern"]
+	path = docs/LuaDesignPattern
+	url = https://github.com/woshihuo12/LuaDesignPattern.git
