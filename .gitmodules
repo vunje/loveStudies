@@ -4,3 +4,69 @@
 [submodule "docs/LuaDesignPattern"]
 	path = docs/LuaDesignPattern
 	url = https://github.com/woshihuo12/LuaDesignPattern.git
+[submodule "tabletopLove/plugins/HooECS"]
+	path = tabletopLove/plugins/HooECS
+	url = https://github.com/Hooodini/HooECS.git
+[submodule "tabletopLove/plugins/cupid-git"]
+	path = tabletopLove/plugins/cupid-git
+	url = https://bitbucket.org/basicer/cupid-git.git
+[submodule "tabletopLove/plugins/lume"]
+	path = tabletopLove/plugins/lume
+	url = https://github.com/rxi/lume.git
+[submodule "tabletopLove/plugins/lua-transform"]
+	path = tabletopLove/plugins/lua-transform
+	url = https://github.com/matiasah/lua-transform.git
+[submodule "tabletopLove/plugins/MGL"]
+	path = tabletopLove/plugins/MGL
+	url = https://github.com/ImagicTheCat/MGL.git
+[submodule "tabletopLove/plugins/array"]
+	path = tabletopLove/plugins/array
+	url = https://github.com/rick4stley/array.git
+[submodule "tabletopLove/plugins/gamera"]
+	path = tabletopLove/plugins/gamera
+	url = https://github.com/kikito/gamera.git
+[submodule "tabletopLove/plugins/lua-libxml"]
+	path = tabletopLove/plugins/lua-libxml
+	url = https://github.com/rdlaitila/lua-libxml.git
+[submodule "tabletopLove/plugins/love-loader"]
+	path = tabletopLove/plugins/love-loader
+	url = https://github.com/kikito/love-loader.git
+[submodule "tabletopLove/plugins/stateful.lua"]
+	path = tabletopLove/plugins/stateful.lua
+	url = https://github.com/kikito/stateful.lua.git
+[submodule "tabletopLove/plugins/strong"]
+	path = tabletopLove/plugins/strong
+	url = https://github.com/mebens/strong.git
+[submodule "tabletopLove/plugins/tween.lua"]
+	path = tabletopLove/plugins/tween.lua
+	url = https://github.com/kikito/tween.lua.git
+[submodule "tabletopLove/plugins/anim8"]
+	path = tabletopLove/plugins/anim8
+	url = https://github.com/kikito/anim8.git
+[submodule "tabletopLove/plugins/talkies"]
+	path = tabletopLove/plugins/talkies
+	url = https://github.com/tanema/talkies.git
+[submodule "tabletopLove/plugins/Wasx"]
+	path = tabletopLove/plugins/Wasx
+	url = https://github.com/PhytoEpidemic/Wasx.git
+[submodule "tabletopLove/plugins/minifs"]
+	path = tabletopLove/plugins/minifs
+	url = https://gitlab.com/Zatherz/minifs.git
+[submodule "tabletopLove/plugins/luigi"]
+	path = tabletopLove/plugins/luigi
+	url = https://github.com/airstruck/luigi.git
+[submodule "tabletopLove/plugins/LoveFrames"]
+	path = tabletopLove/plugins/LoveFrames
+	url = https://github.com/linux-man/LoveFrames.git
+[submodule "tabletopLove/plugins/middleclass"]
+	path = tabletopLove/plugins/middleclass
+	url = https://github.com/kikito/middleclass.git
+[submodule "tabletopLove/plugins/utf8.lua"]
+	path = tabletopLove/plugins/utf8.lua
+	url = https://github.com/Stepets/utf8.lua.git
+[submodule "tabletopLove/plugins/lynput"]
+	path = tabletopLove/plugins/lynput
+	url = https://github.com/Lydzje/lynput.git
+[submodule "tabletopLove/plugins/tactile"]
+	path = tabletopLove/plugins/tactile
+	url = https://github.com/tesselode/tactile.git
