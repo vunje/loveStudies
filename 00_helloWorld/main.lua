@@ -1,22 +1,22 @@
-local Middleclass = require('plugin/HooECS/lib/middleclass')
-local hooecs = require('plugin/HooECS')
-hooecs.initialize({debug=true})
+-- local Middleclass = require('plugin/HooECS/lib/middleclass')
+-- local hooecs = require('plugin/HooECS')
+-- hooecs.initialize({debug=true})
 
-local entity=hooecs.Entity()
-local system=hooecs.System()
-local engine=hooecs.Engine()
-local component = hooecs.Component
-local eventManager=hooecs.EventManager()
+-- local entity=hooecs.Entity()
+-- local system=hooecs.System()
+-- local engine=hooecs.Engine()
+-- local component = hooecs.Component
+-- local eventManager=hooecs.EventManager()
 
-local class=hooecs.class
+-- local class=hooecs.class
 
 function love.load()
-    local Position=component.create("position",{"x","y"},{x=0,y=0})
+    -- local Position=component.create("position",{"x","y"},{x=0,y=0})
 end
 
 function love.draw()
-    a=3
-    b=4
+    a=7
+    b=5
     love.graphics.print(a+b, 400, 300)
     love.graphics.circle("fill", 230, 210, 100, 25)
     -- love.graphics.print("Hello World!!", 400, 300)
@@ -24,7 +24,7 @@ function love.draw()
 end
 
 function love.keyreleased(key)
-    if key=="escape" then
+    if key=="escape" or key=="q" then
         love.event.quit()
     end
 end
